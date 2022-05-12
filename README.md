@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mobleyem
+- 👋 Hi, I’m Emily!
 - 👀 I’m interested in learning as much as I can about coding 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on small projects that can help me learn
